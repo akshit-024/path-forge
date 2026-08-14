@@ -577,6 +577,7 @@ submission.
 
 ## Author
 
-**Name:** _Add your name_  
-**Email:** _Add your professional email_  
-**Portfolio / GitHub:** _Add your link_
+**Name:** Akshit Maddi 
+**Email:** akshit7480@gmail.com  
+**Portfolio / GitHub:** https://github.com/akshit-024/path-forge
+** Deployed/ Live: ** https://pathforge-mr4o.onrender.com
